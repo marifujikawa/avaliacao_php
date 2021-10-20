@@ -5,6 +5,8 @@
 
 - [Considerações ](https://github.com/marifujikawa/avaliacao_php#considera%C3%A7%C3%B5es)
 
+
+
 # Date - método Advance
 
 - inicialmente criei uma classe `Date`, que possui os métodos para devolver o próximo dia. 
@@ -185,4 +187,7 @@ Nova proposição de código:
 
 # Considerações
 
-- acredito que o teste solicitado foi interessante. A parte inicial, relativa a conhecimentos específicos do PHP, foi importante para o teste de aspectos da linguagem. A questão número 5, inclusive, foi uma novidade para mim, pois desconhecia a utilização de variáveis dinâmicas, as variáveis variáveis. Achei que o exercício 10, sobre a melhoria do código, foi muito válido, considerando que por vezes temos que trabalhar com códigos legados. Referente aos exercícios de lógica, acredito que são válidos considerando que para programarmos a lógica sempre é necessária. 
+- Acredito que o teste solicitado foi interessante. A parte inicial, relativa a conhecimentos específicos do PHP, foi importante para o teste de aspectos da linguagem. 
+- A questão número 5, inclusive, foi uma novidade para mim, pois desconhecia a utilização de variáveis dinâmicas, as variáveis variáveis. 
+- Achei que o exercício 10, sobre a melhoria do código, foi muito válido, considerando que por vezes temos que trabalhar com códigos legados.
+-  Referente aos exercícios de lógica, acredito que são válidos considerando que para programarmos a lógica sempre é necessária. 
